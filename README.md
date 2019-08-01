@@ -16,8 +16,11 @@ Brianna Boyce
 
 ### Install Tools
 NodeJS/NPM: https://nodejs.org/en/
+
 Truffle: `npm install -g truffle`
+
 Ganache: https://www.trufflesuite.com/ganache
+
 Metamask : https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en
 
 ### Setup Fake Blockchain
